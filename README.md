@@ -50,4 +50,4 @@ The commands will work are (Make Sure to adjust the paths of certain apps or ope
 20. open chrome or chrome
 21. open do select or do select
 ---------------------------------------------------------------------------------
-Thank You ----------------- By Puli Ram Charan Tej
+Thank You ----------------- By PUPPALA LAVANYA
